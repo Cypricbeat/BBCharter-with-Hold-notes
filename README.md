@@ -38,8 +38,8 @@ Latest downloads are available [here!](https://mega.nz/folder/KHhDhB5I#OP6ufDzOs
 |X|Spawn A Orange note|
 |C|Spawn A Red note|
 |V|Spawn A Purple note|
+|Alt+A|Appends a hold note up to the current song pos| 
 |Delete or Backspace|Delete Selected notes|
-|Alt + A|Sets Hold Note end point|
 ### Timeline Shortcuts
 | Hotkey | Function |
 | ------ | ------ |
